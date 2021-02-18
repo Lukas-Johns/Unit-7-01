@@ -10,4 +10,4 @@ function myInput () {
   } else {
     alert('no match. you lose...')
   }
-  }
+}
